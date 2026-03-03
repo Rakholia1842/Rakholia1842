@@ -30,9 +30,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakholia1842&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakholia1842&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
-![](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+<p align="left">
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="150" height="150" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" height="150" />
+</p>
 
 
 ### ✍️ Random Dev Quote
