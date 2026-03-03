@@ -32,6 +32,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rakholia1842&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
+![](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
